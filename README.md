@@ -20,4 +20,4 @@ Sistema desenvolvido em **Python** para automação de leitura, processamento, a
 - `estoque_supermercado.xlsx`: Planilha de exemplo contendo os dados de entrada.
 
 ---
-*Projeto desenvolvido para estudos e aplicação prática de manipulação de dados, automação de planilhas e integração com banco de dados relacional.*
+*Projeto desenvolvido para estudos e aplicação prática de manipulação de dados, automação de planilhas e integração com banco de dados relacional com dados fictícios.*
