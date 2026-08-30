@@ -1,4 +1,4 @@
-# Processador de Vendas e Gerenciador de Clientes via Excel e SQLite
+# Processador de Estoque via Excel e SQLite
 
 Sistema desenvolvido em **Python** para automação de leitura, processamento, armazenamento e exportação de dados a partir de planilhas Excel (`.xlsx`), utilizando **Pandas** e **SQLite3**.
 
